@@ -1,0 +1,73 @@
+.text-right {
+text-align: right;
+}
+.text-center {
+text-align: center;
+}
+.text-justify {
+text-align: justify;
+}
+.text-bold {
+font-weight: bold;
+}
+.text-underline {
+text-decoration: underline;
+}
+.text-italic {
+font-style: italic;
+}
+.text-silver {
+color: silver;
+}
+.text-red {
+color: red;
+}
+.text-green {
+color: green;
+}
+.text-yellow {
+color: yellow;
+}
+.text-white {
+color: white;
+}
+.bg-blue {
+background-color: blue;
+}
+.bg-red {
+background-color: red;
+}
+.bg-green {
+background-color: green;
+} 
+.bg-yellow {
+background-color: yellow;
+}
+.bg-white {
+background-color: white;
+}
+.border {
+  border: 3px solid rgb(0, 0, 0);
+}
+.align-left {
+float: left;
+margin-right: 20px;
+padding: 5px;
+}
+.align-right {
+float: right;
+margin-left: 20px;
+padding: 5px;
+}
+.border-dashed {
+border-style: dashed;
+}
+.border-dotted {
+border-style: dotted;
+}
+.border-rounded {
+  border-radius:6px;
+}
+.btn {
+  
+}

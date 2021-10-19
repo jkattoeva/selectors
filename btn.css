@@ -1,0 +1,46 @@
+.btn {
+border: none;
+border-radius: 3px;
+padding: 10px;
+margin: 5px;
+}
+.btn-blue {
+background-color: blue;
+color: white;
+}
+.btn-gray {
+background-color: gray;
+color: white;
+}
+.btn-green {
+background-color: green;
+color: white;
+}
+.btn-red {
+background-color: red;
+color: white;
+}
+.btn-yellow {
+background-color: yellow;
+color: black;
+}
+.btn-dodgerblue {
+background-color: dodgerblue;
+color: black;
+}
+.btn-white {
+  background-color: white;
+  color: black
+}
+.btn-black {
+  background-color: black;
+  color: white;
+}
+.btn-small {
+  font-size: 10px;
+  padding: 2px;
+}
+.btn-large {
+  font-size: 10px;
+  padding: 2px;
+}
